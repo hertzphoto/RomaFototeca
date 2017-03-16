@@ -1,1 +1,5 @@
-# Documentation on data exports of the photographic collection of the Bibliotheca Hertziana
+# Documentation of the data structure of the photographic collection of the Bibliotheca Hertziana
+Photographic information are located in child tags within object documents
+<object>
+  <photo>...</photo>
+</object>
