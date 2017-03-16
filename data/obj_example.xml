@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--Created with uld2xml (2.5.6-SQLite-UldOut: TEXT for EXPORT, STRINGS for simple search, COMMENT, MD5), version 2016-02-12, (c) 2004-2012 Christoph Glorius/Martin Raspe, Bibliotheca Hertziana - Max Planck Institute for Art History, Rome, Italy -->
+<!--Optionen: h2x-konform [ ], biblhertz-tags [x]-->
+<obj DID="1" Lvl="1">
+  <a5000>0800000X</a5000>
+  <a5060 text="Datierung">
+    <a5064 to="1600" from="1500" year="1501">1501/1600</a5064>
+  </a5060>
+  <a5108 text="Rom"/>
+  <a5202>unknown Palazzo</a5202>
+  <a5230>Palazzo</a5230>
+  <a5202>Architektur</a5202>
+  <a99bh>document example for PHAROS consortium</a99bh>
+  <a9902>Bibliotheca Hertziana Rom</a9902>
+</obj>
