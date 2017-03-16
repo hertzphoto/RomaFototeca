@@ -4,7 +4,7 @@
 <obj DID="1" Lvl="1">
   <a5000>0800000X</a5000>
   <a5060 text="Datierung">
-    <a5064 to="1600" from="1500" year="1501">1501/1600</a5064>
+    <a5064 to="1600" from="1501" year="1501">1501/1600</a5064>
   </a5060>
   <a5108 text="Rom"/>
   <a5202>unknown Palazzo</a5202>
