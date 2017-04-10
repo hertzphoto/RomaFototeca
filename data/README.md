@@ -1,3 +1,3 @@
 # Data export examples from http://foto.biblhertz.it
 
-`BHR-objects-from-British-Museum-London.xml` is a MIDAS.XML example decribing objects from the British Museum and photographs at the Bibliotheca Hertziana photographic collection.
+`BHR-objects-from-British-Museum-London.xml` is a MIDAS.XML example describing some objects from the British Museum with photographs at the Bibliotheca Hertziana photographic collection (list of artists: http://foto.biblhertz.it/exist/foto/browser.xql?cat=ART&start=1&len=9999&index=British%20Museum&topcat=MUS).
