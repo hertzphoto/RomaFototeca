@@ -1,6 +1,6 @@
 # E78 Collection (of images):
 
-Hertziana (MPI Rome same as MPI Florence and Foto Marburg):
+## Hertziana (MPI Rome same as MPI Florence and Foto Marburg):
 `<a8450 text="Foto">
   <a8470>14910</a8470>
   <a8460>Alinari</a8460>
@@ -9,7 +9,7 @@ Hertziana (MPI Rome same as MPI Florence and Foto Marburg):
   <a8515>lig</a8515>
 </a8450>`
 
-Frick:
+## Frick:
 `<image>
             <image_type>Photograph</image_type>
             <photographer>Carnegie Institute, Pittsburgh</photographer>
@@ -24,7 +24,7 @@ Frick:
             <image_rights/>
 </image>`
 
-Zeri:
+## Zeri:
 `
 <FOTO ftan="\160000\132800\132515.jpg"
             ftat="particolare"
