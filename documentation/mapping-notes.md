@@ -1,6 +1,8 @@
-# E78 Collection (of images):
+# E78 Collection (of images)
 
 ## Hertziana (MPI Rome same as MPI Florence and Foto Marburg):
+
+### E64 Information carrier Archive images (= photos)
 `<a8450 text="Foto">
   <a8470>14910</a8470>
   <a8460>Alinari</a8460>
@@ -8,6 +10,10 @@
   <a8496 year="1969" from="1969" to="1969">1969</a8496>
   <a8515>lig</a8515>
 </a8450>`
+
+### E22 Man-Made Work of Art (= objects)
+`<obj> ... </obj>
+`
 
 ## Frick:
 `<image>
@@ -45,3 +51,11 @@ Hertziana: `<a8450/>`
 Frick: `<image/>`
 
 Zeri: `<FOTO/>`
+
+# E22 Man-Made Work of Art
+
+Hertziana: `<obj/>`
+
+Frick: `...`
+
+Zeri: `...`
