@@ -1,6 +1,6 @@
-#E78 Collection (of images):
+# E78 Collection (of images):
 
-Hertziana:
+Hertziana (MPI Rome same as MPI Florence and Foto Marburg):
 `<a8450 text="Foto">
   <a8470>14910</a8470>
   <a8460>Alinari</a8460>
