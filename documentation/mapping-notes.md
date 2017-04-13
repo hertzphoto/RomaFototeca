@@ -40,8 +40,8 @@ misl="252">/160000/132800/132515.jpg</FOTO>
 `
 # E64 Information carrier (Archive images)
 
-Hertziana: <a8450/>
+Hertziana: `<a8450/>`
 
-Frick: <image/>
+Frick: `<image/>`
 
-Zeri: <FOTO/>
+Zeri: `<FOTO/>`
