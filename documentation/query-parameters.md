@@ -1,5 +1,5 @@
 # Query parameters
-|  ABBREVIATION | OBJECT / PHOTO | MIDAS |
+|  ABBREVIATION | OBJECT / PHOTO | MIDAS @ BH ROME|
 | ------------- | ------------- | -------- |
 | letter | subject etc. | element n. |
 
