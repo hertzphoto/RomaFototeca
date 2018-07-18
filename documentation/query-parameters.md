@@ -1,8 +1,9 @@
 # Query parameters
-|  ABBREVIATION | OBJECT / PHOTO |
-| ------------- | ------------- |
-| a | OBJ | artist
-a)  OBJ artist|attribution|artist_ID	a3100,a309a
+|  ABBREVIATION | OBJECT / PHOTO | MIDAS |
+| ------------- | ------------- | -------- |
+| letter | subject etc. | element n. |
+
+a)  OBJ artist attribution artist_ID	a3100,a309a
 
 b)  OBJ	building|"Bau"	a5202,a5204,a2664,a2684
 
