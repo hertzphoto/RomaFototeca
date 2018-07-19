@@ -2,7 +2,7 @@
 |  ABBREVIATION | OBJECT / PHOTO | DESCRIPTION | MIDAS @ BH ROME|
 | ------------- | ------------- | -------- | -------- |
 | letter | subject etc. | element names | element numbers |
-|a)| OBJ | artist attribution artist_ID|a3100,a309a|
+|a)| OBJ | artist name, attribution, artist_ID|a3100,a309a,a31nn,a3105,a3000,a30gn,|
 |b)| OBJ|building "Bau"|a5202,a5204,a2664,a2684|
 |c)|OBJ|category classification|a5230,a5220|
 |d)|OBJ|date of object or event|a5064,a2996,a3496|
