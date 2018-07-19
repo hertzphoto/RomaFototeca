@@ -13,7 +13,7 @@
 |i)|OBJ|institution, collection, museum|a2900/a2930/a2940||
 |j)|OBJ|inv. number (in collection)|a2950||
 |k)|OBJ|artists role|a3475,a3470||
-|l)|OBJ|literature, bibliography, source|a8350,a8330/a8334,a8150||
+|l)|OBJ|literature, bibliography, source, library reference|a8350,a8330/a8334,a8150||
 |m)|OBJ|material, measure, technique|a5260,a5300,a5360||
 |n)|FTO|negative, photo number|a8470,a85bh,a8472,a8476||
 |o)|OBJ|object_ID|a5000,a5001,a5002,a5003,a50gn||
@@ -23,7 +23,7 @@
 |s)|FTO|size of photo, file size|a8480,a8542||
 |t)|OBJ, FTO|title of object, photo detail|a5200,a52bh,a8510||
 |u)|OBJ, FTO|url, museum collection online|a290i||
-|v)|OBJ|visual information:iconclass, iconography|a5500,...||
+|v)|OBJ|visual information: iconclass, iconography|a5500,(a5510,a5520)||
 |w)|OBJ|web resources, parameters|www||
 |x)|OBJ, FTO|cross references, relations, resources|bhrom||
 |y)|FTO|year, date of photo taken|a8494||
