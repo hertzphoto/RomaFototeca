@@ -1,8 +1,8 @@
 # Query parameters
 |  ABBREVIATION | OBJECT / PHOTO | DESCRIPTION | MIDAS @ BH ROME| CIDOC ETC.
 | ------------- | ------------- | -------- | -------- | -------- |
-| __letter__ | __subject etc.__ | __element names__ | __element numbers__ | __element references __ |
-|a)| OBJ | artist name, attribution, artist_ID|a3100,a309a,a31nn,a3105,a3000,a30gn| CIDOC etc.
+| __letter__ | __subject etc.__ | __element names__ | __element numbers__ | __element references__ |
+|a)| OBJ | artist name, attribution, artist_ID|a3100,a309a,a31nn,a3105,a3000,a30gn| CIDOC etc.|
 |b)| OBJ|building "Bau"|a5202,a5204,a2664,a2684|E21|
 |c)|OBJ|category classification|a5230,a5220||
 |d)|OBJ|date of object or event|a5064,a2996,a3496||
