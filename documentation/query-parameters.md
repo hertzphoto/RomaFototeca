@@ -2,7 +2,7 @@
 |  ABBREVIATION | OBJECT / PHOTO | DESCRIPTION | MIDAS @ BH ROME| CIDOC ETC.
 | ------------- | ------------- | -------- | -------- | -------- |
 | __letter__ | __subject etc.__ | __element names__ | __element numbers__ | __element references__ |
-|a)| OBJ | artist name, attribution, artist_ID|a3100,a309a,a31nn,a3105,a3000,a30gn|E21|
+|a)| OBJ | artist name, attribution, artist_ID|a3100,a3090,a31nn,a31bh,a3105,a3000,a30gn|E21|
 |b)| OBJ|building "Bau"|a5202,a5204,a2664,a2684||
 |c)|OBJ|category classification|a5230,a5220||
 |d)|OBJ|date of object or event|a5064,a2996,a3496||
@@ -12,7 +12,7 @@
 |h)|FTO|holding or photo archive|a8460,a8498||
 |i)|OBJ|institution, collection, museum|a2900/a2930/a2940||
 |j)|OBJ|inv. number (in collection)|a2950||
-|k)|OBJ|artists role|a3475,a3470||
+|k)|OBJ, (FTO)|artists or persons role|a3475,a3470,a4475,a4485||
 |l)|OBJ|literature, bibliography, source, library reference|a8350,a8330/a8334,a8150||
 |m)|OBJ|material, measure, technique|a5260,a5300,a5360||
 |n)|FTO|negative, photo number|a8470,a85bh,a8472,a8476||
