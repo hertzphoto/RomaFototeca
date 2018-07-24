@@ -8,7 +8,7 @@
 |c)|OBJ|category classification|a5230,a5220||
 |d)|OBJ|date of object or event|a5064,a2996,a3496||
 |e)|OBJ|event name|a5060,aob30,aob40,a5007||
-|f)|FTO|file, photo numbers, image_ID|a8540,a8540h,a84bh,a85bh,a8472||
+|f)|FTO|file, photo numbers, image_ID|a8540,a8540h,a84bh,a85bh,a8472|E73|
 |g)|OBJ|geographic location, city|a5108,a2665,a2864||
 |h)|FTO|holding or photo archive|a8460,a8498||
 |i)|OBJ|institution, collection, museum|a2900/a2930/a2940||
