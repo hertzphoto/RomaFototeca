@@ -5,7 +5,7 @@
 |  | root | data | a9902= Bibliotheca Hertziana | __photographic collection__ |
 |  | __OBJ__ | object | obj | __E22 'Man-Made Work of Art'; OG: OGGETTO__ |
 |  | __FTO__ | photo | a8450 | __E73 'Information Object'; INV: INVENTARIO__ |
-|a)|OBJ|artist name, attribution, artist_ID|a3100,a3090,a31nn,a31bh,a3105,a3000,a30gn,a28gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
+|a)|OBJ|artist name, attribution, artist_ID|a3100, a3090, a31nn, a31bh, a3105, a3000, a30gn, a28gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
 |b)|OBJ|building "Bau"|a5202, a5204, a2664, a2684||
 |c)|OBJ|category classification|a5230, a5220|E55 'Type_Object/Type_Class'; SGT: SOGGETTO|
 |d)|OBJ|date of object or event|a5064, a2996, a3496|E52 'Date_Object'|
