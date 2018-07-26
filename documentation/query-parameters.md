@@ -6,10 +6,10 @@
 |  | __OBJ__ | object | obj | __E22 [Man-Made Object](http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.2), [Künstlicher Gegenstand](http://cidoc-crm.gnm.de/wiki/E22_K%C3%BCnstlicher_Gegenstand); OG: OGGETTO__ |
 |  | __FTO__ | photo | a8450 | __E73 [Information Object](http://www.cidoc-crm.org/Entity/E73-Information-Object/Version-6.2), [Informationsgegenstand](http://cidoc-crm.gnm.de/wiki/E73_Informationsgegenstand); INV: INVENTARIO__ |
 |a)|OBJ|artist name, attribution, artist_ID|a3100, a3090, a31nn, a31bh, a3105, a3000, a30gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
-|b)|OBJ|building, "Bauwerk", building_id|a5202, a5204, a2700, a2730, a2750, a2780, a5014, a26gn||
+|b)|OBJ|building, "Bauwerk", building_id|a5202, a5204, a2700, a2730, a2750, a2780, a5014, a26gn|E22 P1 is identified by (identifies)|
 |c)|OBJ|category classification|a5230, a5220|E55 'Type_Object/Type_Class'; SGT: SOGGETTO|
 |d)|OBJ|date of object or event|a5064, a2996, a3496|E52 'Date_Object'|
-|e)|OBJ|event name, relation|a5060, aob30, aob40, a5007|E22 'Relation To Work Of Art'|
+|e)|OBJ|event name, relation|a5060, aob30, aob40, a5007||
 |f)|FTO|file, photo numbers, image_ID|a8540, a8540h, a84bh, a85bh, a8472|E42 'Identifier'; INVT: Numero di inventario di categoria|
 |g)|OBJ|geographic location, city|a5108, a2664, a2665, a2864|E44 'Place Appellation'|
 |h)|FTO|holding or photo archive, signature of photo department|a8460, a8498, a8515|E19 'Photo Subcollection'; UBFC: UBICAZIONE FOTO - Collocazione, INVC: INVENTARIO - Collocazione dell'inventario|
