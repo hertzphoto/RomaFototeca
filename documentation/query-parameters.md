@@ -15,13 +15,13 @@
 |j)|OBJ|inv. number (in collection)|a2950||
 |k)|OBJ, (FTO)|artists or persons role|a3475,a3470,a4475,a4485,('photographer' if a8490)||
 |l)|OBJ|literature, bibliography, source, library reference|a8350,a8330/a8334,a8150||
-|m)|OBJ|material, measure, technique|a5260,a5300,a5360||
+|m)|OBJ|material, measure, technique|a5260,a5300,a5360,a5358||
 |n)|FTO|negative number, information on negative|a8470,a8476||
 |o)|OBJ|object_ID|a5000,a5001,a5002,a5003,a50gn||
 |p)|OBJ, FTO|person, portrait, photographer|a4100,a5500(if '61B'),a2910,a8490||
 |q)|OBJ, FTO|QUERY ALL|\*||
-|r)|FTO|reproduction type, photo technique, format|a8482,a8478,a8487,a8480||
-|s)|FTO|size of photo, file size|a8480,a8542||
+|r)|FTO|reproduction type, photo technique, photo size, file size|a8482,a8478,a8487,a8480,a8542||
+|s)|OBJ|school, style|a5130||
 |t)|OBJ, FTO|title of object, photo detail|a5200,a52bh,a8510||
 |u)|OBJ, FTO|url: museum collection online|a290i||
 |v)|OBJ|visual information: iconclass, iconography|a5500,(a5510,a5520)||
