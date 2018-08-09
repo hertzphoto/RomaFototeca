@@ -15,15 +15,15 @@ This table is a list of query parameters for object and photo data at the photog
 |`e`|OBJ|event name, relation|a5060, aob30, aob40, a5007||
 |`f`|FTO|file, photo numbers, image_ID|a8540, a8540h, a84bh, a85bh, a8472|E42 'Identifier'; INVT: Numero di inventario di categoria|
 |`g`|OBJ|geographic location, city|a5108, a2664, a2665, a2864|E44 'Place Appellation'|
-|`h`|FTO|holding or photo archive, signature of photo department|a8460, a8498, a8515|E19 'Photo Subcollection'; UBFC: UBICAZIONE FOTO - Collocazione, INVC: INVENTARIO - Collocazione dell'inventario|
+|`h`|FTO|holding or photo archive, signature of photo department, photographer, copyright information |a8460, a8498, a8515, a8490, a8541, a8577|E19 'Photo Subcollection'; UBFC: UBICAZIONE FOTO - Collocazione, INVC: INVENTARIO - Collocazione dell'inventario|
 |`i`|OBJ|institution, collection, museum|a2900/ a2930/ a2940|E53 'Collection', E78 'Collection Name'|
 |`j`|OBJ|inv./cat. number in collection, institution_id|a28gn, a2950, a2952, a2960, a2962, a9075|E31 'ID_Catalogue'|
-|`k`|OBJ, FTO|artists or persons role|a3475, a3470, a4475, a4485, 'photographer' if a8490|E12 'Production'|
+|`k`|OBJ, FTO|artists or persons role|a3475, a3470, a4475, a4485, ('photographer' if a8490)|E12 'Production'|
 |`l`|OBJ|literature, bibliography, source, library reference|a8350, a8330/ a8334, a8150||
 |`m`|OBJ|material, measure, technique|a5260, a5300, a5360, a5358||
 |`n`|FTO|negative number, information on negative|a8470, a8476||
 |`o`|OBJ|object_ID|a5000, a5001, a5002, a5003, a50gn|E42 'ID_OBJ'|
-|`p`|OBJ, FTO|person, portrait, photographer, person_id|a40gn, a4100, a5500 if '61B', a2910, a8490 |E39 'Actor/Owner'; AUFN: AUTORE DELLA FOTOGRAFIA - Nome scelto|
+|`p`|OBJ, FTO|person, portrait, (photographer), person_id|a40gn, a4100, a5500 if '61B', a2910, (a8490) |E39 'Actor/Owner'; AUFN: AUTORE DELLA FOTOGRAFIA - Nome scelto|
 |`q`|OBJ, FTO|QUERY ALL|\*||
 |`r`|FTO|reproduction type, photo technique, photo size, file size|a8482, a8478, a8487, a8480, a8542||
 |`s`|OBJ|school, style|a5130||
