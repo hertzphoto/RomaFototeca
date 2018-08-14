@@ -2,12 +2,12 @@
 
 This table is a list of query parameters for object and photo data at the photographic collection of the Bibliotheca Hertziana, Max Planck Institute for Art History, Rome/ Italy. The parameters are reduced from `a` to `z` to get a limited list of max. 25 fields. Parameter `q` is reserved for a query in all fields. Every single parameter can include one or more of the listed MIDAS elements. The right column shows the corresponding fields of CIDOC/CRM and SCHEDA F and suggests some possible mappings.
 
-|  KEY | OBJECT / PHOTO | DESCRIPTION | MIDAS @ MPI BH ROME| CIDOC/CRM; SCHEDA F ETC.
+|  KEY | OBJECT / PHOTO | DESCRIPTION | `M:` MIDAS @ MPI BH ROME| `C:` [CIDOC/CRM](http://www.cidoc-crm.org); `F:` SCHEDA F; `Z:` [ZUCCARO](http://zuccaro.biblhertz.it/) ETC.
 | ------------- | ------------- | -------- | -------- | -------- |
 | __parameter__ | __parent element__ | __element names__ | __element numbers__ | __element references__ |
 |  | root | data | a9902 _Bibliotheca Hertziana_ | __photographic collection__ |
-|  | __OBJ__ | object | obj | __E22 [Man-Made Object](http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.2), [Künstlicher Gegenstand](http://cidoc-crm.gnm.de/wiki/E22_K%C3%BCnstlicher_Gegenstand); OG: OGGETTO__ |
-|  | __FTO__ | photo | a8450 | __E36 [Visual Item](http://www.cidoc-crm.org/Entity/e36-visual-item/version-6.2), [Bildliches](http://cidoc-crm.gnm.de/wiki/E36_Bildliches) < E73 [Information Object](http://www.cidoc-crm.org/Entity/E73-Information-Object/Version-6.2), [Informationsgegenstand](http://cidoc-crm.gnm.de/wiki/E73_Informationsgegenstand); INV: INVENTARIO__ |
+|  | __OBJ__ | object | obj | `C:`__E22 [Man-Made Object](http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.2), [Künstlicher Gegenstand](http://cidoc-crm.gnm.de/wiki/E22_K%C3%BCnstlicher_Gegenstand); `F:` OG: OGGETTO__; `Z:` PRINTS, SCULPTURES, DRAWINGS, PAINTINGS, APPLIED ARTS |
+|  | __FTO__ | photo | a8450 | `C:`__E36 [Visual Item](http://www.cidoc-crm.org/Entity/e36-visual-item/version-6.2), [Bildliches](http://cidoc-crm.gnm.de/wiki/E36_Bildliches) < E73 [Information Object](http://www.cidoc-crm.org/Entity/E73-Information-Object/Version-6.2), [Informationsgegenstand](http://cidoc-crm.gnm.de/wiki/E73_Informationsgegenstand); `F:` INV: INVENTARIO__ ; `Z:` IMAGE_METADATA, DIGITAL_SCANS  |
 |`a`|OBJ|artist name, attribution, artist_ID|a3100, a3090, a31nn, a31bh, a3105, a3000, a30gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
 |`b`|OBJ|building, "Bauwerk", building_id|a5202, a5204, a2700, a2730, a2750, a2780, a5014, a26gn|E22 P1 is identified by (identifies)|
 |`c`|OBJ|category classification|a5230, a5220|E55 'Type_Object/Type_Class'; SGT: SOGGETTO|
