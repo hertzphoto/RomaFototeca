@@ -9,6 +9,6 @@ XML: http://foto.biblhertz.it/exist/foto/object-bhrom-plain.xhtml?id=08127672
 
 JSON: http://foto.biblhertz.it/exist/foto/object-bhrom.json?id=08127672
 
-###NEW: OAI-PMH (since January 2019)
+### NEW: OAI-PMH (since January 2019)
 
 OAI-PMH: https://oai.biblhertz.it/foto/oai-pmh?verb=GetRecord&identifier=oai::obj::08127672&metadataPrefix=raw 
