@@ -10,6 +10,12 @@
 
 https://oai.biblhertz.it/foto/oai-pmh?verb=Identify
 
+## ListIdentifiers:
+
+Listing object Identifiers
+
+https://oai.biblhertz.it/foto/oai-pmh?verb=ListIdentifiers&set=obj&metadataPrefix=raw
+
 ## ListSets: information about the Sets
 
 - obj: objects/artworks with object IDs beginning with 08 and with photos 
