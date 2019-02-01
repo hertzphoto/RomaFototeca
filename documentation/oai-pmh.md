@@ -24,6 +24,9 @@ Listing identifiers of object set:
 
 https://oai.biblhertz.it/foto/oai-pmh?verb=ListIdentifiers&set=obj&metadataPrefix=raw
 
+Listing identifiers from objects changed in February 2019:
+
+https://oai.biblhertz.it/foto/oai-pmh?verb=ListIdentifiers&from=2019-02-01T00:00:00Z&until=2019-02-28T23:59:59Z&set=obj&metadataPrefix=raw
 
 ## GetRecord
 
