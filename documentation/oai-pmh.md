@@ -8,6 +8,6 @@
 
 `metadataPrefix = raw`
 
-## ListRecords: objects from January 2019  
+## ListRecords: objects from February 2019  
 
-https://oai.biblhertz.it/foto/oai-pmh?verb=ListRecords&from=2019-01-01T00:00:00Z&until=2019-01-31T18:00:00Z&metadataPrefix=raw&set=obj
+https://oai.biblhertz.it/foto/oai-pmh?verb=ListRecords&from=2019-02-01T00:00:00Z&until=2019-02-28T23:59:59Z&metadataPrefix=raw&set=obj
