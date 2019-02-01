@@ -24,6 +24,14 @@ Listing identifiers of object set:
 
 https://oai.biblhertz.it/foto/oai-pmh?verb=ListIdentifiers&set=obj&metadataPrefix=raw
 
+
+## GetRecord
+
+Show raw data from object with identifier 08127672 (Rubens painting of Sebastian at Galleria Corsini, Rome):
+
+https://oai.biblhertz.it/foto/oai-pmh?verb=GetRecord&identifier=oai::obj::08127672&metadataPrefix=raw
+
+
 ## ListRecords: updating data records from actual objects
 
 Example: objects changed in February 2019
