@@ -1,4 +1,4 @@
-# OAI Repository of the Photographic Collection Database
+# OAI Repository of the Photographic Collection Database [beta]
     
 `Base-URL = https://oai.biblhertz.it/foto/oai-pmh`
 
