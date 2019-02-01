@@ -12,11 +12,9 @@ https://oai.biblhertz.it/foto/oai-pmh?verb=Identify
 
 ## ListSets: information about the Sets
 
-obj: objects/artworks with object IDs beginning with 08 and with photos 
-
-kue: artists biographies, ID beginning with 08, only edited at Bibliotheca Hertziana Fototeca 
-
-objkue: objects and artists
+- obj: objects/artworks with object IDs beginning with 08 and with photos 
+- kue: artists biographies, ID beginning with 08, only edited at Bibliotheca Hertziana Fototeca 
+- objkue: objects and artists
 
 https://oai.biblhertz.it/foto/oai-pmh?verb=ListSets
 
