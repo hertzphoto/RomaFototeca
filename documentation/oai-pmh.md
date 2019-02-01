@@ -6,6 +6,10 @@
 
 `metadataPrefix = raw`
 
+## Identify:
+
+https://oai.biblhertz.it/foto/oai-pmh?verb=Identify
+
 ## ListSets: information about the Sets
 
 obj: objects/artworks with object IDs beginning with 08 and with photos 
