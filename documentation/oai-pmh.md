@@ -18,6 +18,8 @@ objkue: objects and artists
 
 https://oai.biblhertz.it/foto/oai-pmh?verb=ListSets
 
-## ListRecords: objects changed in February 2019
+## ListRecords: updating data records from actual objects
+
+Example: objects changed in February 2019
 
 https://oai.biblhertz.it/foto/oai-pmh?verb=ListRecords&from=2019-02-01T00:00:00Z&until=2019-02-28T23:59:59Z&metadataPrefix=raw&set=obj
