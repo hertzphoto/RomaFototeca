@@ -9,7 +9,7 @@
 - URI: file name without TIF/JPG, examples: "bh123456" (scan from photo) / "bhim012345" (digital born) a8540
 - BH local inventory number a84bh (hand written before 1958 if available, stamped on photograph since 1958)
 - negative numbers a8470 (in most cases, has to be connected with name of photo archive)
-- Census or Fototeca Unione number <a85bh> (in some cases, Census Barcode or local aquisition number)
+- Census or Fototeca Unione number <a85bh> (in some cases, Census Barcode or local aquisition number) a85bh
 
 ### Object and Photo titles
 
