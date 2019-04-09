@@ -1,20 +1,20 @@
 ### OBJECT IDs:
 
-- URI: object ID "08123456" (identifier of the artwork at Bildindex): a5000
-- URI: object part ID "08#######" a5001 a5002  a5003 (children of parent object)
-- museum ID a2950 (has to be connected with museum location and name)
+- URI: object ID "08123456" (identifier of the artwork at Bildindex): <code>a5000</code>
+- URI: object part ID "08#######" <code>a5001 a5002  a5003</code> (children of parent object)
+- museum ID <code>a2950</code> (has to be connected with museum location and name)
 
 ### PHOTO IDs:
 
-- URI: file name without TIF/JPG, examples: "bh123456" (scan from photo) / "bhim012345" (digital born) a8540
+- URI: file name without TIF/JPG, examples: "bh123456" (scan from photo) / "bhim012345" (digital born) <code>a8540</code>
 - BH local inventory number a84bh (hand written before 1958 if available, stamped on photograph since 1958)
-- negative numbers a8470 (in most cases, has to be connected with name of photo archive)
-- Census or Fototeca Unione number <a85bh> (in some cases, Census Barcode or local aquisition number) a85bh
+- negative numbers <code>a8470</code> (in most cases, has to be connected with name of photo archive)
+- Census or Fototeca Unione number <a85bh> (in some cases, Census Barcode or local aquisition number) <code>a85bh</code>
 
 ### Object and Photo titles
 
-- (primary) object title a5200 (usually in German)
-- (alternate) object title a52bh (in different languages)
+- (primary) object title <code>a5200</code> (usually in German)
+- (alternate) object title <code>a52bh</code> (in different languages)
 
 ### Types
 
