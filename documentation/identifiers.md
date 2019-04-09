@@ -2,7 +2,7 @@
 
 - URI: object ID "08123456" (identifier of the artwork at Bildindex): <code>a5000</code>
 - URI: object part ID "08#######" <code>a5001 a5002  a5003</code> (children of parent object)
-- museum ID <code>a2950</code> (has to be connected with museum location and name)
+- museum inv. ID <code>a2950</code> (has to be connected with museum location and name)
 
 ### PHOTO IDs:
 
