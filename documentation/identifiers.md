@@ -7,7 +7,7 @@
 ### PHOTO IDs:
 
 - URI: file name without TIF/JPG, examples: "bh123456" (scan from photo) / "bhim012345" (digital born) <code>a8540</code>
-- BH local inventory number <code>a84bh</code> (hand written before 1958 if available, stamped on photograph since 1958)
+- BH local positive inventory number (<code>a8472</code> hand written before 1958 if available, <code>a84bh</code> stamped on photograph since 1958)
 - negative numbers <code>a8470</code> (in most cases, has to be connected with name of photo archive)
 - Census or Fototeca Unione number <a85bh> (in some cases, Census Barcode or local aquisition number) <code>a85bh</code>
 
