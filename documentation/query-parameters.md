@@ -10,7 +10,7 @@ This table is a list of query parameters for object and photo data at the photog
 |  | __FTO__ | photo | a8450 | `C:`__E36 [Visual Item](http://www.cidoc-crm.org/Entity/e36-visual-item/version-6.2), [Bildliches](http://cidoc-crm.gnm.de/wiki/E36_Bildliches) < E73 [Information Object](http://www.cidoc-crm.org/Entity/E73-Information-Object/Version-6.2), [Informationsgegenstand](http://cidoc-crm.gnm.de/wiki/E73_Informationsgegenstand); `F:` INV: INVENTARIO__ ; `Z:` IMAGE_METADATA, DIGITAL_SCANS  |
 |`a`|OBJ|artist name, attribution, artist_ID|a3100, a3090, a31nn, a31bh, a3105, a3000, a30gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
 |`b`|OBJ|building, "Bauwerk", building_id|a5202, a5204, a2700, a2730, a2750, a2780, a5014, a26gn|E22 P1 is identified by (identifies)|
-|`c`|OBJ|category classification|a5230, a5220|E55 'Type_Object/Type_Class'; SGT: SOGGETTO|
+|`c`|OBJ|category classification|a5230, a5220, a5226|E55 'Type_Object/Type_Class'; SGT: SOGGETTO|
 |`d`|OBJ|date of object or event|a5064, a2996, a3496|E52 'Date_Object'|
 |`e`|OBJ|event name, relation|a5060, aob30, aob40, a5007||
 |`f`|FTO|file, photo numbers, image_ID|a8540, a8540h, a84bh, a85bh, a8472|E42 'Identifier'; INVT: Numero di inventario di categoria|
