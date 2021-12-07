@@ -14,7 +14,7 @@ This table is a list of query parameters for object and photo data at the photog
 |`d`|OBJ|date of object or event|a5064, a2996, a3496|E52 'Date_Object'|
 |`e`|OBJ|event name, relation|a5060, aob30, aob40, a5007||
 |`f`|FTO|file, photo numbers, image_ID|a8540, a8540h, a84bh, a85bh, a8472|E42 'Identifier'; INVT: Numero di inventario di categoria|
-|`g`|OBJ|geographic location, city|a5108, a2664, a2662, a2864|E44 'Place Appellation'|
+|`g`|OBJ|geographic location, city|a5108, a2664, a2662, a2864, a28gn|E44 'Place Appellation'|
 |`h`|FTO|holding or photo archive, signature of photo department, photographer, copyright information |a8460, a8498, a8515, a8490, a8541, a8577|E19 'Photo Subcollection'; UBFC: UBICAZIONE FOTO - Collocazione, INVC: INVENTARIO - Collocazione dell'inventario|
 |`i`|OBJ|institution, collection, museum|a2900/ a2930/ a2940|E53 'Collection', E78 'Collection Name'|
 |`j`|OBJ|inv./cat. number in collection, institution_id|a28gn, a2950, a2952, a2960, a2962, a9075|E31 'ID_Catalogue'|
