@@ -23,7 +23,7 @@ This table is a list of query parameters for object and photo data at the photog
 |`m`|OBJ|material, measure, technique|a5260, a5300, a5360, a5358||
 |`n`|FTO|negative number, information on negative|a8470, a8476||
 |`o`|OBJ|object_ID|a5000, a5001, a5002, a5003, a50gn|E42 'ID_OBJ'|
-|`p`|OBJ, FTO|person, portrait, (photographer), person_id|a40gn, a4100, a5500 if '61B', a2910, (a8490) |E39 'Actor/Owner'; AUFN: AUTORE DELLA FOTOGRAFIA - Nome scelto|
+|`p`|OBJ, FTO|person (passive), portrait, (photographer), person_id|a40gn, a4100, a5500 if '61B', a2910, (a8490) |E39 'Actor/Owner'; AUFN: AUTORE DELLA FOTOGRAFIA - Nome scelto|
 |`q`|OBJ, FTO|QUERY ALL|\*||
 |`r`|FTO|reproduction type, photo technique, photo size, file size|a8482, a8478, a8487, a8480, a8542||
 |`s`|OBJ|school, style|a5130||
