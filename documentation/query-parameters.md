@@ -8,7 +8,7 @@ This table is a list of query parameters for object and photo data at the photog
 |  | root | data | a9902 _Bibliotheca Hertziana_ | __photographic collection__ |
 |  | __OBJ__ | object | obj | `C:`__E22 [Man-Made Object](http://www.cidoc-crm.org/Entity/e22-man-made-object/version-6.2), [Künstlicher Gegenstand](http://cidoc-crm.gnm.de/wiki/E22_K%C3%BCnstlicher_Gegenstand); `F:` OG: OGGETTO__; `Z:` PRINTS, SCULPTURES, DRAWINGS, PAINTINGS, APPLIED ARTS |
 |  | __FTO__ | photo | a8450 | `C:`__E36 [Visual Item](http://www.cidoc-crm.org/Entity/e36-visual-item/version-6.2), [Bildliches](http://cidoc-crm.gnm.de/wiki/E36_Bildliches) < E73 [Information Object](http://www.cidoc-crm.org/Entity/E73-Information-Object/Version-6.2), [Informationsgegenstand](http://cidoc-crm.gnm.de/wiki/E73_Informationsgegenstand); `F:` INV: INVENTARIO__ ; `Z:` IMAGE_METADATA, DIGITAL_SCANS  |
-|`a`|OBJ|artist name, attribution, artist_ID|a3100, a3090, a31nn, a31bh, a3105, a3000, a30gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
+|`a`|OBJ|actor (active), artist name, attribution, artist_ID|a3100, a3090, a31nn, a31bh, a3105, a3000, a30gn|E21 'Artist'; AUTN: AUTORE - Nome scelto|
 |`b`|OBJ|building, "Bauwerk", building_id|a5202, a5204, a2700, a2730, a2750, a2780, a5014, a26gn|E22 P1 is identified by (identifies)|
 |`c`|OBJ|category classification|a5230, a5220, a5226|E55 'Type_Object/Type_Class'; SGT: SOGGETTO|
 |`d`|OBJ|date of object or event|a5064, a2996, a3496|E52 'Date_Object'|
