@@ -18,7 +18,7 @@ This table is a list of query parameters for object and photo data at the photog
 |`h`|FTO|holding or photo archive, signature of photo department, photographer, copyright information |a8460, a8498, a8515, a8490, a8541, a8577|E19 'Photo Subcollection'; UBFC: UBICAZIONE FOTO - Collocazione, INVC: INVENTARIO - Collocazione dell'inventario|
 |`i`|OBJ|institution, collection, museum|a2900/ a2930/ a2940|E53 'Collection', E78 'Collection Name'|
 |`j`|OBJ|inv./cat. number in collection, institution_id|a28gn, a2950, a2952, a2960, a2962, a9075|E31 'ID_Catalogue'|
-|`k`|OBJ, FTO|artists or persons role|a3475, a3470, a4475, a4485, ('photographer' if a8490)|E12 'Production'|
+|`k`|OBJ, FTO|key function, artists/actors/persons role|a3475, a3470, a4475, a4485, ('photographer' if a8490)|E12 'Production'|
 |`l`|OBJ|literature, bibliography, source, library reference|a8350, a8330/ a8334, a8150||
 |`m`|OBJ|material, measure, technique|a5260, a5300, a5360, a5358||
 |`n`|FTO|negative number, information on negative|a8470, a8476||
